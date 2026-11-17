@@ -1,5 +1,7 @@
 # Click Cast Plus
 
+![Click Cast Plus cursor list](screenshot.png)
+
 A World of Warcraft Forever addon that makes click casting easier to use.
 
 ## Features
