@@ -18,3 +18,11 @@ Download the zip from [Releases](../../releases) and extract it into `World of W
 - `/clickcast settings`: open the settings
 - `/clickcast list`: toggle the cursor list
 - `/clickcast minimap`: toggle the minimap button
+
+## Changelog
+### 1.4.0
+- The default list font size is now 10.
+- Spell icons, border and background are now on by default.
+
+### 1.3.0
+- First release.

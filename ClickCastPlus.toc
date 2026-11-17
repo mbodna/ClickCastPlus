@@ -2,7 +2,7 @@
 ## Title: Click Cast Plus
 ## Notes: Adds a Click Casting button to the spellbook and shows your click-cast bindings next to the cursor over unit frames.
 ## Author: mbodn
-## Version: 1.3.0
+## Version: 1.4.0
 ## SavedVariables: ClickCastPlusDB
 ## IconTexture: Interface\CURSOR\Point
 

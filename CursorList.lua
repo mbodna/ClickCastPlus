@@ -9,11 +9,11 @@ local UPDATE_INTERVAL = 0.05
 
 ns.defaults = {
     cursorList = true,
-    showIcons = false,
-    fontSize = 9,
+    showIcons = true,
+    fontSize = 10,
     outline = true,
-    border = false,
-    background = false,
+    border = true,
+    background = true,
     backgroundOpacity = 80,
     offsetX = 30,
     offsetY = -10,
@@ -174,6 +174,7 @@ local function IsOverUnitFrame()
 end
 
 local lastMods, lastX, lastY
+
 local function Refresh(mods)
     lastMods = mods
     local bindings = GetBindingsForModifiers(mods)
